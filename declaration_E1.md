@@ -7,11 +7,11 @@
 > Elle se dépose **avec** le notebook, dans le même commit. Sans elle, le rendu est incomplet :
 > la feuille de route de l'IA est 🟠 (autorisée **avec déclaration**) pour les exercices.
 
-**Nom et prénom :**
-**Pseudo Kaggle :**
-**Dépôt (lien) :**
-**Rendu :** _(E1 / E2 / E3 / B3)_
-**Date :**
+**Nom et prénom :*HOUNSOU JOAMOUR*
+**Pseudo Kaggle :*mrdwin*
+**Dépôt (lien) :*https://github.com/cadhns-jpg/App_auto_dep*
+**Rendu :*E1* _(E1 / E2 / E3 / B3)_
+**Date :*18 octobre 2026*
 
 ---
 
@@ -23,14 +23,14 @@ _En trois lignes : les parties du travail que vous avez écrites sans assistant.
 
 | Outil utilisé | Ce qu'il a produit | Ce que j'ai vérifié moi-même |
 |---|---|---|
-|  |  |  |
+|  claude | guider a travers les processus de réponse |  |
 
 _Si vous n'avez utilisé aucun assistant, écrivez « aucun » — c'est une réponse complète._
 
 ## 3. Ce que je ne saurais pas expliquer
 
 _La question la plus utile, et la moins confortable : quelle ligne de votre rendu ne savez-vous
-pas défendre si on vous la montre à l'oral ?_
+pas défendre si on vous la montre à l'oral ? je ne saurais pas expliquer pourquoi mes tentatives de submittions echouent _
 
 _Elle est là pour vous, pas contre vous. Un code que vous ne savez pas expliquer n'est pas un
 travail rendu (politique du cours, § 8) — et l'oral individuel porte sur **votre** travail._
